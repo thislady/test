@@ -1,2 +1,1 @@
-<title> Test for Blog Posts</title>
-This will show on my website.
+Learning how to write code for these Jeklyll Templates seems impossible.
